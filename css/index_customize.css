@@ -669,6 +669,13 @@ vertical-align:bottom;
   background-image: url(../order/images/order_top1.jpg);
 }
 
+.jumbotron.contact_top {
+  background-position: center 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url(../contact/images/contsct_top1.jpg);
+}
+
 
 
 @media (max-width:320px){
